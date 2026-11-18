@@ -73,6 +73,10 @@ Para escrever o markdown, cada # cria uma nova sessão de storytelling.
 Então, você precisa apenas apontar dentro do seu HTML para o arquivo markdown com a sua história.
 
 
+## Referencia de arquivo
+
+[Eox-Elements](https://eox-a.github.io/EOxElements/?path=/docs/about--docs&globals=outline:!true;viewport.value:1280-541;code-language:vanilla)
+
 # Acknoledgments
 
 The development of the tools is attributed to DevSeed. And open-sourced through the License in eopf tools.
